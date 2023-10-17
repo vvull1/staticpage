@@ -101,6 +101,14 @@ function Home() {
                         <td>1</td>
                         <td>Ad Master</td>
                         <td><FaUserEdit/></td>
+                      </tr>
+                      <tr>
+                        <td>06/06/2023</td>
+                        <td>Missing Deals</td>
+                        <td>06/5/2023 Ad Speacial</td>
+                        <td>1</td>
+                        <td>Ad Master</td>
+                        <td><FaUserEdit/></td>
                         <td>
                           <i
                             className="fas fa-edit ml-2"
