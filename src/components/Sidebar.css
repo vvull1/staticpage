@@ -1,0 +1,15 @@
+/* Sidebar.css */
+.list-group-item {
+    border: none; /* Remove borders */
+    background-color: rgba(229, 229, 243, 0.685); /* Remove background color */
+    cursor: pointer; /* Add a pointer cursor to indicate interactivity */
+    color: #333; /* Set the text color */
+    padding: 8px 16px; /* Adjust padding as needed */
+    margin: 0; /* Remove margin to eliminate spacing between items */
+    border-radius: 0; /* Remove border-radius */
+  }
+  
+  .list-group-item:hover {
+    background-color: #3788da; /* Background color on hover (optional) */
+  }
+  
